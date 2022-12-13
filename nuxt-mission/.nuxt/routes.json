@@ -1,0 +1,20 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\ADMIN\\\\Documents\\\\GitHub\\\\nuxt-studies\\\\nuxt-mission\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ADMIN\\\\Documents\\\\GitHub\\\\nuxt-studies\\\\nuxt-mission\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "C:\\\\Users\\\\ADMIN\\\\Documents\\\\GitHub\\\\nuxt-studies\\\\nuxt-mission\\\\pages\\\\_slug.vue",
+    "chunkName": "pages/_slug"
+  }
+]
